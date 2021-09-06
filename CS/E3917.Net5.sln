@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to TreeList Drag and Drop", "How to TreeList Drag and Drop.csproj", "{E5BE42FB-B849-48A7-8EAA-E8E5B023AE3C}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to TreeList Drag and Drop", "How to TreeList Drag and Drop.Net5.csproj", "{E5BE42FB-B849-48A7-8EAA-E8E5B023AE3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
