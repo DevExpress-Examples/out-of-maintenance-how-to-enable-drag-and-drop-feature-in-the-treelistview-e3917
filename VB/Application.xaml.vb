@@ -15,11 +15,11 @@ Imports System.Linq
 Imports System.Windows
 
 Namespace How_to_TreeList_Drag_and_Drop
-    ''' <summary>
-    ''' Interaction logic for App.xaml
-    ''' </summary>
-    Partial Public Class App
-        Inherits Application
+	''' <summary>
+	''' Interaction logic for App.xaml
+	''' </summary>
+	Partial Public Class App
+		Inherits Application
 
-    End Class
+	End Class
 End Namespace
